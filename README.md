@@ -6,7 +6,7 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. We will launch a cr
 
 ## Technologies :
 
-###Install MetaMask
+### Install MetaMask
 ```
 MetaMask is a digital wallet for the Ethereum blockchain. Follow the instructions on the MetaMask Download pageConnexions vers un site externe. to install MetaMask in your web browser.
 ````
